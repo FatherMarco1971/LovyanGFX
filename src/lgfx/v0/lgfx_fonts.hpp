@@ -283,6 +283,7 @@ namespace fonts
   extern const lgfx::FixedBMPfont AsciiFont24x48;
 
   extern const lgfx::GFXfont TomThumb                 ;
+  extern const lgfx::GFXfont SevenSegment9pt7b           ;
   extern const lgfx::GFXfont FreeMono9pt7b            ;
   extern const lgfx::GFXfont FreeMono12pt7b           ;
   extern const lgfx::GFXfont FreeMono18pt7b           ;

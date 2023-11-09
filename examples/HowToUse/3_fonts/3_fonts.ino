@@ -294,6 +294,7 @@ void loop(void)
   drawNumberTest( &fonts::Font7                   );
   drawNumberTest( &fonts::Font8                   );
   drawNumberTest( &fonts::TomThumb                );
+  drawNumberTest( &fonts::SevenSegment9pt7b          );
   drawNumberTest( &fonts::FreeMono9pt7b           );
   drawNumberTest( &fonts::FreeMonoBold9pt7b       );
   drawNumberTest( &fonts::FreeMonoOblique9pt7b    );

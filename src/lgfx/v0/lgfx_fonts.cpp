@@ -1139,6 +1139,7 @@ namespace fonts
   #include "../Fonts/GFXFF/TomThumb.h"  // TT1
 
   #include "../Fonts/GFXFF/SevenSegment9pt7b.h"  // FF1 or FM9
+  #include "../Fonts/GFXFF/SevenSegment24pt7b.h"  // FF1 or FM9
   #include "../Fonts/GFXFF/FreeMono9pt7b.h"  // FF1 or FM9
   #include "../Fonts/GFXFF/FreeMono12pt7b.h" // FF2 or FM12
   #include "../Fonts/GFXFF/FreeMono18pt7b.h" // FF3 or FM18
